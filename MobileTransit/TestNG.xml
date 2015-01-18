@@ -1,0 +1,13 @@
+<suite name="Suite1" verbose="1" >
+  <test name="For Jenkins" >
+    <classes>
+       <class name="com.java.test.PageFactoryTest" />
+    </classes>
+  </test>
+ 
+  <test name="Regression1">
+    <classes>
+      <class name="com.java.test.PageFactoryTest"/>
+    </classes>
+  </test>
+</suite>
